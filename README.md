@@ -7,6 +7,7 @@
 ```
 2021 07 ~ 현재 (6개월 예정) 
 - AXA 손해보험 Data Science 팀 인턴
+- FDS 모델링 ( H2O - GBM,XGB, ... & CatBoost with Custom Loss Function )
 ```
 
 
