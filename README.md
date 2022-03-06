@@ -2,12 +2,15 @@
 
 데이터분석에 관심있는 정순우 입니다.
 
+작성해나가고 있는 블로그 : https://velog.io/@soonwoo2003
+( 관심있는 아티클들, 새로이 SQL 문제 푼것들을 기록합니다. )
 
 인턴
 ```
-2021 07 ~ 현재 (6개월 예정) 
+2021 07 ~ 2022 03 현재  
 - AXA 손해보험 Data Science 팀 인턴
 - FDS 모델링 ( H2O - GBM,XGB, ... & CatBoost with Custom Loss Function )
+- 태블로 
 ```
 
 
