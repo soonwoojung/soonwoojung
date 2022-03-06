@@ -7,7 +7,7 @@
 
 인턴
 ```
-2021 07 ~ 2022 03 현재  
+2021 07 ~ 2022 03 현재 ( 9개월 )
 - AXA 손해보험 Data Science 팀 인턴
 - FDS 모델링 ( H2O - GBM,XGB, ... & CatBoost with Custom Loss Function )
 - 태블로 
