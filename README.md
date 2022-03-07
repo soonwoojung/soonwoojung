@@ -13,6 +13,12 @@
 - 태블로 
 ```
 
+HackerRank SQL 문제를 풀다보니 골드 레벨입니다.
+![image](https://user-images.githubusercontent.com/72516027/156974776-1b6bb182-1417-4d31-99fd-a33bf73f774c.png)
+SQL 쿼리를 손놓고 있다보면 자꾸 까먹어서
+- HackerRank 문제들
+- leetcode 문제들
+- 프로그래머스 SQL 고득점 Kit 문제들을 조금씩 자주 풀고 있습니다.
 
 ------------------------------------------------
 ### Dacon 경진대회 참가 리스트 
